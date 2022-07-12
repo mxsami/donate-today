@@ -4,7 +4,14 @@ body {
 }
 .heading-section {
     background-image: url("images/donation9.jpg");
-    background-size: 100%;
+    background-size: 1440PX 669px; 
+    align-content: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    radius:0;
+    text-size-adjust: 826px 320px;
+    margin-top: 2%;
+    margin-bottom: 5%;
 }
 .link-button {
     text-decoration:solid;
