@@ -1,0 +1,16 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.heading-section {
+    background-image: url("images/donation9.jpg");
+    background-size: 100%;
+}
+.link-button {
+    text-decoration:solid;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
